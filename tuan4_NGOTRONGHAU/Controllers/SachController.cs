@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
-namespace NGOMINHTHANG_TUAN4.Controllers
+namespace tuan4_NGOTRONGHAU.Controllers
 {
     public class SachController : Controller
     {
